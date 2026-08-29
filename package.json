@@ -1,0 +1,12 @@
+{
+  "name": "piratheon-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static portfolio for piratheon.github.io — content/home.html compiled to dist/ through the same head/header/footer pipeline as the companion blog.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/build.mjs && npx --yes serve dist"
+  },
+  "dependencies": {}
+}

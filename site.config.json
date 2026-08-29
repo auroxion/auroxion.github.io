@@ -1,0 +1,12 @@
+{
+  "title": "Chafiq El Ibrahimi — Systems-Oriented Developer",
+  "brand": "PIRΛTHΞΘN",
+  "shortTitle": "Portfolio",
+  "description": "Chafiq El Ibrahimi — systems-oriented developer and ethical security researcher building privacy-respecting tooling and self-hosted agentic AI.",
+  "author": "Chafiq El Ibrahimi",
+  "icon": "https://raw.githubusercontent.com/piratheon/piratheon/refs/heads/main/.github/piratheon_eye.svg",
+  "blogUrl": "https://piratheon.github.io/blog/",
+  "nav": [
+    { "label": "GitHub", "href": "https://github.com/piratheon" }
+  ]
+}
