@@ -197,7 +197,7 @@
     }
 
     // ===== GITHUB LIVE STATS =====
-    const GITHUB_USER = 'piratheon';
+    const GITHUB_USER = 'auroxion';
     const FALLBACK_STARS = { 'rika-agent': 42, 'ori': 18, 'aion-dl': 31, 'Harpocrates': 27, 'clpbrd': 15 };
 
     const ghCache = {

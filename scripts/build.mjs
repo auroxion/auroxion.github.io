@@ -5,7 +5,7 @@
 //   - assets/ (CSS, JS, fonts, images) is copied through as-is
 //
 // This intentionally mirrors scripts/build.mjs in the companion blog repo
-// (https://github.com/piratheon/blog) — same directory shape, same
+// (https://github.com/auroxion/blog) — same directory shape, same
 // site.config.json-driven metadata, same head/header/footer contract —
 // so the two properties can be maintained side by side instead of as two
 // unrelated codebases. The portfolio has exactly one page today; if that
